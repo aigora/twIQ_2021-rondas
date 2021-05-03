@@ -1,6 +1,6 @@
-# [Título del trabajo]
+# Rondas(juego)
 
-[Descripción breve del proyecto a realizar (2-3 frases).]
+Un juego en base a decisiones aleatorias y situaciones 
 
 ## Integrantes del equipo
 
