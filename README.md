@@ -10,4 +10,4 @@ Kevin Joseph Choto Once, Usuario: "MrBotKa"
 Se quiere realizar un pequeño cuestionario que a través de preguntas cortas pero de gran ayuda obtengas unos conocimientos previos antes de iniciar en la materia.
 El cuestionario te mostrará tu puntuación final una vez que hayas finalizado un tema cualquiera.
 Hemos permitido que el código sea simple de ampliar sin tener que modificar o ampliar en exceso las variables, haciéndolo fácil de expandir.
-Posible opcion para un solo estudiante.
+Posible opción para un solo estudiante.
