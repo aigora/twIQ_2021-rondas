@@ -1,6 +1,6 @@
 # Rondas(juego)
-
-Un juego en base a decisiones aleatorias y situaciones predeterminadas.
+Bienvenidos, este es un juego donde puedes hacer un cuestionario de 10 preguntas para poner a prueba tus conocimientos sobre análisis instrumental de los primeros 5 temas.
+//Un juego en base a decisiones aleatorias y situaciones predeterminadas.
 
 ## Integrantes del equipo
 Manuel Alejandro Taboada Da Silva , Usuario: "ManuelTaboada"
