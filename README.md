@@ -5,7 +5,7 @@ Un juego en base a decisiones aleatorias y situaciones predeterminadas.
 ## Integrantes del equipo
 Manuel Alejandro Taboada Da Silva , Usuario: "ManuelTaboada"
 Raul Del Campo Almaraz , Usuario: ""
-Kevin Joseph Choto Once, Usuario: ""
+Kevin Joseph Choto Once, Usuario: "MrBotKa"
 ## Objetivos del trabajo
 Se quiere realizar un pequeño juego que a través de situaciones y decisiones subjetivasobtengas una puntuacion para ganar o perder.
 El juego debe obtener resultados y eventos diferentes por un uso aleatorio para poder ser jugado múltiples veces.
