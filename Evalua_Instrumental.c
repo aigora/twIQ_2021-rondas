@@ -40,7 +40,7 @@ int main(){
 	llenar_estructuras(preguntas);
 	
 	while(op!=4){
-		printf("-----------Elija la opción que quiera hacer-----------\n");
+		printf("-----------Elija la opcion que quiera hacer-----------\n");
 		printf("[1] Hacer examen con preguntas aleatorias\n");
 		printf("[2] Hacer examen de un tema en concreto\n");
 		printf("[3] Ver las preguntas de un tema en concreto\n");
@@ -98,7 +98,7 @@ void llenar_estructuras(Pregunta* preguntas){
 
 void comenzar_con_examen(Pregunta* preguntas){
 	
-        nombrep[50];
+        nombre p[50];
 	int puntuacion = 0,i,numero_aleatorio;
 	char eleccion[5];
 	srand(time(NULL));		
