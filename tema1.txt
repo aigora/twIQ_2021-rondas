@@ -1,42 +1,42 @@
-1)Si quiero transformar una señal analógica, que proviene de un termopar para conocer la temperatura de una disolución acuosa con una precisión de 0.1 grado,  a digital ¿De cuántos bits debería ser al menos?
+1)Si quiero transformar una señal analogica, que proviene de un termopar para conocer la temperatura de una disolución acuosa con una precision de 0.1 grado,  a digital ,De cuántos bits debería ser al menos?
 7 bits
 10 bits
 8 bits
 12 bits
 b
-2)Una balanza cuyo rango va de 0 a 200 gr y que tiene una precisión de 0.0001 g tiene que tener necesariamente una tarjeta conversora A/D de ¿Cuántos bits?
+2)Una balanza cuyo rango va de 0 a 200 gr y que tiene una precisión de 0.0001 g tiene que tener necesariamente una tarjeta conversora A/D de ,Cuantos bits?
 20bits
 22bits
 12bits
 21bits
 d
-3)Usando la distribución de Student si un valor queda en el intervalo de incertidumbre,¿Qué se debe hacer?
-a) Medir patrones.
-b) Realizar más medidas
-c) Medir el cero del equipo.
-d) Nada
+3)Usando la distribucion de Student si un valor queda en el intervalo de incertidumbre,Que se debe hacer?
+Medir patrones.
+Realizar mas medidas
+Medir el cero del equipo.
+Nada
 b
-4)¿ Cómo evaluaría cuantitativamente un Error Indeterminado ?
-a) Realizando muchas medidas con diferentes muestras.
-b) Realizando medidas con patrones.
-c) Realizando muchas medidas con la misma muestra.
-d) Realizando medidas sin muestra.
+4) Como evaluaría cuantitativamente un Error Indeterminado ?
+Realizando muchas medidas con diferentes muestras.
+Realizando medidas con patrones.
+Realizando muchas medidas con la misma muestra.
+Realizando medidas sin muestra.
 c 
-5)¿ Cómo se detectan los Errores de Método ?
-a) Realizando medidas sin muestra.
-b) Realizando medidas con patrones.
-c) Realizando muchas medidas con diferentes muestras.
-d) Realizando muchas medidas con la misma muestra.
+5) Como se detectan los Errores de Método ?
+Realizando medidas sin muestra.
+Realizando medidas con patrones.
+Realizando muchas medidas con diferentes muestras.
+Realizando muchas medidas con la misma muestra.
 b
-6)El método de las adiciones continuas se utiliza muy a menudo en A/A y E/A, sobre todo cuando tenemos ....
-a) concentraciones pequeñas.
-b) un sistema automático.
-c) concentraciones altas.
-d) medidas rutinarias.
+6)El metodo de las adiciones continuas se utiliza muy a menudo en A/A y E/A, sobre todo cuando tenemos ....
+concentraciones pequenias.
+un sistema automatico.
+concentraciones altas.
+medidas rutinarias.
 a
-7)En el cálculo mediante mínimos cuadrados, ¿Qué expresión se minimiza ?
+7)En el calculo mediante mínimos cuadrados, Que expresión se minimiza ?
 La diferencia entre los valores experimentales y los calculados.
-La raíz cuadrada de la diferencia de valores experimentales menos los calculados.
+La raiz cuadrada de la diferencia de valores experimentales menos los calculados.
 El cuadrado de la diferencia de valores experimentales menos calculados.
 La diferencia entre los valores calculados y los experimentales.
 c
@@ -46,13 +46,13 @@ Hay 2n+1 puntos sin filtrar
 Quedan n puntos al principio y n puntos al final sin filtrar.
 Todos los puntos quedan filtrados
 c
-9)Si tengo una señal compuesta de cuatro señales de frecuencias 5, 20, 100 y 300 Hz. ¿Cuál es la frecuencia mínima de muestreo para registrarlas?
+9)Si tengo una senial compuesta de cuatro seniales de frecuencias 5, 20, 100 y 300 Hz. Cual es la frecuencia mínima de muestreo para registrarlas?
 200 Hz
 10 Hz
 40 Hz
 600 Hz
 d
-10)Si tengo una señal compuesta de cuatro señales de frecuencias 5, 20, 100 y 300 Hz y hay una componente de ruido de 1000 Hz. ¿Cuál es la frecuencia mínima de muestreo para registrarlas y discriminar la deñal del ruido?
+10)Si tengo una senial compuesta de cuatro seniales de frecuencias 5, 20, 100 y 300 Hz y hay una componente de ruido de 1000 Hz. Cual es la frecuencia mínima de muestreo para registrarlas y discriminar la denial del ruido?
 200 Hz
 10 Hz
 40 Hz
@@ -118,25 +118,25 @@ Depende tambien del pH
 Incorrrecto, depende de la fuerza ionica de la disolucion 
 Depende de la carga del ion
 d
-1)¿Por DSC cómo se detecta que un plástico tiene mayor contenido en plastificantes que otro que tiene sus mismos componentes?
-Porque su temperatura de fusión aumenta.
+1)Por DSC como se detecta que un plastico tiene mayor contenido en plastificantes que otro que tiene sus mismos componentes?
+Porque su temperatura de fusion aumenta.
 No se detecta
 Porque Tg se va a valores menores.
 Porque Tg se va a valores mayores.
 c
 2)La Tg de un polímero se registra por ATD como ...
-Un efecto endotérmico.
-Un cambio de pendiente, tipo escalón.
-Un efecto exotérmico.
+Un efecto endotermico.
+Un cambio de pendiente, tipo escalon.
+Un efecto exotermico.
 No se puede detectar.
 b
-3)La Tg de un polímero se puede determinar mediante ....
+3)La Tg de un polimero se puede determinar mediante ....
 ATG y ATD
 ATG y DSC.
 ATD.
 ATD y DSC.
 d
-4)Si quiero detectar por ATG la Tg de un polímero que a la temperatura ambiente es flexible debo usar como límites de temperatura del análisis: ....
+4)Si quiero detectar por ATG la Tg de un polímero que a la temperatura ambiente es flexible debo usar como límites de temperatura del analisis: ....
 No se detecta.
 De temperatura ambiente a 500 C.
 De -100 C a temperatura ambiente.
@@ -144,155 +144,155 @@ De -100 C a 100 C.
 a
 5)De un polímero que a la temperatura ambiente es flexible podemos decir que:....
 No tiene Tg.
-Su Tg está por encima de la temperatura ambiente.
+Su Tg esta por encima de la temperatura ambiente.
 Antes de alcanzar la Tg descompone.
-Su Tg está por debajo de la temperatura ambiente.
+Su Tg esta por debajo de la temperatura ambiente.
 d
-6)El proceso de fusión del In genera un pico endotérmico estrecho y agudo, mientras que en un Polímero son anchos y redondeados debido a que ....
-porque el polímero realmente es una mezcla con aditivos.
-el polímero no tiene un peso molecular único, sino una distribución de pesos moleculares.
-porque el polímero no es transparente.
-porque el polímero tiene cargas inertes.
+6)El proceso de fusion del In genera un pico endotermico estrecho y agudo, mientras que en un polimero son anchos y redondeados debido a que ....
+porque el polimero realmente es una mezcla con aditivos.
+el polimero no tiene un peso molecular unico, sino una distribucion de pesos moleculares.
+porque el polimero no es transparente.
+porque el polimero tiene cargas inertes.
 b
 7)Por ATG la Tg de un polímero se muestra como: ...
 Una ganancia de peso.
-Una pérdida de peso.
-Un escalón.
+Una perdida de peso.
+Un escalon.
 No se observa.
 d
-8)El proceso de cristalización de un polímero amorfo puede ser observado como .....
+8)El proceso de cristalizacion de un polímero amorfo puede ser observado como .....
 Un desplazamiento de la tg a temperaturas mayores.
-Un proceso endotérmico al bajar la temperatura.
-Un proceso exotérmico al subir la temperatura.
-Una pérdida de peso.
+Un proceso endotermico al bajar la temperatura.
+Un proceso exotermico al subir la temperatura.
+Una perdida de peso.
 c
-9)Cómo se detecta por DSC que un plástico tiene menos contenido de plastificante que otro con los mismos componentes?
+9)Como se detecta por DSC que un plastico tiene menos contenido de plastificante que otro con los mismos componentes?
 Porque Tg se va a valores mayores
 Porque Tg se va a valores menores.
-Porque su temperatura de fusión aumenta.
+Porque su temperatura de fusion aumenta.
 No se detecta.
 a
-10)La determinación en un plástico de las cargas inertes, se realiza mediante ....
-Un ATG en atmósfera reductora.
-Un DSC en atmósfera reductora.
-Un ATG en atmósfera oxidante.
-Un DSC en atmósfera oxidante.
+10)La determinacion en un plastico de las cargas inertes, se realiza mediante ....
+Un ATG en atmosfera reductora.
+Un DSC en atmosfera reductora.
+Un ATG en atmosfera oxidante.
+Un DSC en atmosfera oxidante.
 c
-1)Para que, en una estructura cúbica centrada en las caras, una reflexión pueda ser observada los índices de Miller h,k y l tienen que cumplir que ...
+1)Para que, en una estructura cubica centrada en las caras, una reflexión pueda ser observada los indices de Miller h,k y l tienen que cumplir que ...
 k+l par
 k+l impar
 h+k+l par
 h+l impar
 a
-2)Para que, en una estructura cúbica centrada en el cuerpo, una reflexión pueda ser observada los índices de Miller h,k y l tienen que cumplir que ...
+2)Para que, en una estructura cubica centrada en el cuerpo, una reflexion pueda ser observada los indices de Miller h,k y l tienen que cumplir que ...
 h+l par
 h+k+l impar
 k+l par
 h+k+l par
 d
-3)Se produce radiación X por pos átomos de un anticátodo cuando los electrones acelerados incidentes ....
-atraviesan el anticátodo.
+3)Se produce radiacion X por pos atomos de un anticatodo cuando los electrones acelerados incidentes ....
+atraviesan el anticatodo.
 arrancan electrones externos.
-chocan con él núcleo.
+chocan con el nucleo.
 arrancan electrones internos.
 d
-4)En una estructura cúbica centrada en las caras, la primera reflexión que puede ser observada tiene los índices de Miller: h, k y l ....
+4)En una estructura cubica centrada en las caras, la primera reflexion que puede ser observada tiene los indices de Miller: h, k y l ....
 2,0,0
 1,1,0
 1,0,0
 1,1,1
 d
-5)La radiación que produce una lámpara de rayos X es característica de:
-del elemento que constituye el anticátodo.
+5)La radiacion que produce una lampara de rayos X es caracteristica de:
+del elemento que constituye el anticatodo.
 del elemento que constituye el filamento.
 del elemento o compuesto sobre la que incide.
-depende de si el anticátodo está refrigerado o no.
+depende de si el anticatodo esta refrigerado o no.
 a
-6)En una estructura cúbica centrada en el cuerpo, la primera reflexión que puede ser observada tiene los índices de Miller: h, k y l ....
+6)En una estructura cubica centrada en el cuerpo, la primera reflexion que puede ser observada tiene los indices de Miller: h, k y l ....
 2,2,0
 8,0,0
 2,0,0
 1,1,0
 d
-7)Se puede realizar el análisis cuantitativo de una muestra multifásica, mediante difracciónde rayos X siempre que ...
+7)Se puede realizar el analisis cuantitativo de una muestra multifasica, mediante difraccion de rayos X siempre que ...
 Los componentes de la muestra sean fases cristalinas.
 Los componentes de la muestra sean fases amorfas.
 Los componentes de la muestra tengan fases amorfas y cristalinas.
 Los componentes de la muestra sean vidrios.
 c
-8)Para filtrar y conseguir radiación monocromática de una lámpara de rayos X con anticátodo de Cu se necesita un filtro de ....
+8)Para filtrar y conseguir radiacion monocromatica de una lámpara de rayos X con anticatodo de Cu se necesita un filtro de ....
 W
 Fe
 Ni
 Zn
 c
-9)Un material que presenta orientaciones preferenciales se puede detectar debido a que los máximos de difracción correspondientes a su diagrama de polvo, se ve alterado .....
-se alteran las intensidades de los máximos de difracción.
-los picos aparecen al ángulo mitad.
+9)Un material que presenta orientaciones preferenciales se puede detectar debido a que los maximos de difraccion correspondientes a su diagrama de polvo, se ve alterado .....
+se alteran las intensidades de los maximos de difraccion.
+los picos aparecen al angulo mitad.
 los picos desaparecen y se ensanchan.
-los máximos se desplazan a ángulos menores.
+los maximos se desplazan a angulos menores.
 a
-10)Un material amorfo presenta un diagrama de difracción ...
+10)Un material amorfo presenta un diagrama de difraccion ...
 no presenta picos.
 con muchos picos.
 picos muy estrechos.
 con muy pocos picos.
 a
-1)El desplazamiento químico en RMN,...
+1)El desplazamiento quimico en RMN,...
 Depende de la frecuencia.
 Depende del campo.
 Es adimensional.
 Depende de la temperatura.
 La respuesta correcta es: Es adimensional.
-2)¿Cuál de los siguientes disolventes puede ser utilizado en RMN?
+2)Cual de los siguientes disolventes puede ser utilizado en RMN?
 CCl4
 CDCl3
 CHCl3
 CH2Cl2.
 b
-3)¿Por qué en RMN de H no se vé normalmente el acoplamiento de señales de los 1H y el 13C?
-Porque no tiene momento magnético nuclear.
+3)Por que en RMN de H no se ve normalmente el acoplamiento de seniales de los 1H y el 13C?
+Porque no tiene momento magnetico nuclear.
 Porque es muy poco abundante en la naturaleza.
-Porque no es un núcleo magnético
-Porque sus pesos atómicos son diferentes.
+Porque no es un nucleo magnetico
+Porque sus pesos atomicos son diferentes.
 b
-4)El n-butano ¿Cuántos tipos de protones equivalentes tiene?
+4)El n-butano Cuantos tipos de protones equivalentes tiene?
 Dos
 Diez
 Tres y dos
 Seis y dos
 La respuesta correcta es: Dos
-5)¿En el n-Propano, la señal del metilo en cuántas señales se desdobla? ¿Cuál es su relación de intensidades? ¿Cuál es la integral de sus áreas?
+5)En el n-Propano, la senial del metilo en cuantas seniales se desdobla? Cual es su relacion de intensidades? Cual es la integral de sus áreas?
 2. 1-1. 3.
 1. 1. 6.
 2. 1-1. 2.
 3. 1-2-1. 6.
 La respuesta correcta es: 3. 1-2-1. 6.
-6)En el espectro de RMN de protón del n-propano, si uno de los carbonos es el C-13, entonces :
-Las señales de RMN de H se desdoblan, multiplicándose por dos.
-No influye para nada, pues no se vería.
-Sólo se vería el espectro de RMN de C13 porque su peso molecular es el más alto.
+6)En el espectro de RMN de proton del n-propano, si uno de los carbonos es el C-13, entonces :
+Las seniales de RMN de H se desdoblan, multiplicandose por dos.
+No influye para nada, pues no se veria.
+Solo se veria el espectro de RMN de C13 porque su peso molecular es el mas alto.
 Aparece el espectro de RMN de C-13 superpuesto.
-La respuesta correcta es: Las señales de RMN de H se desdoblan, multiplicándose por dos.
-7)¿El 2,2,3,3 tetrametilbutano cuántas señales dará en RMN de H? ¿Cuál es la integral de sus áreas?
+La respuesta correcta es: Las seniales de RMN de H se desdoblan, multiplicándose por dos.
+7)¿El 2,2,3,3 tetrametilbutano cuantas señales dara en RMN de H? Cual es la integral de sus areas?
 Cuatro picos de 3, 6, 6 y tres H.
-Tres picos y sus áreas 6, 6 y 6 y además desdoblados.
-Un sólo pico y un área de 18 H.
-Cuatro picos de 3, 6, 6 y tres H y además desdoblados.
-La respuesta correcta es: Un sólo pico y un área de 18 H.
-8)En el n-Propano, la señal del metilo en cuántas señales se desdobla? ¿Cuál es su relación de intensidades? ¿Cuál es la integral de sus áreas?
+Tres picos y sus áreas 6, 6 y 6 y ademas desdoblados.
+Un solo pico y un area de 18 H.
+Cuatro picos de 3, 6, 6 y tres H y ademas desdoblados.
+La respuesta correcta es: Un solo pico y un área de 18 H.
+8)En el n-Propano, la senial del metilo en cuántas seniales se desdobla? Cual es su relación de intensidades? Cual es la integral de sus areas?
 2. 1-1. 2.
 2. 1-1. 3.
 3. 1-2-1. 6.
 1. 1. 6.
 La respuesta correcta es: 3. 1-2-1. 6
-9)El Benceno ¿Cuántos tipos de protones equivalentes tiene?
+9)El Benceno Cuantos tipos de protones equivalentes tiene?
 Seis.
 Doce.
 Seis y Seis.
 Uno.
 La respuesta correcta es: Uno
-10)El propano ¿Cuántos tipos de protones equivalentes tiene?
+10)El propano Cuantos tipos de protones equivalentes tiene?
 Dos.
 Ocho
 Cuatro
