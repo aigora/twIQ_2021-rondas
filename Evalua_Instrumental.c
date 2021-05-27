@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<string.h>
 #include<stdlib.h>
-
+#define NOMBRE 20
 typedef struct{
 	char nombre[250];
 	int nota[100];
@@ -35,7 +35,7 @@ void llenar_estructuras(Pregunta* preguntas);
 int main(){
 	
 	int op;
-	nombre p[50];
+	nombre p[NOMBRE];
 	Pregunta preguntas[50];
 	llenar_estructuras(preguntas);
 	
@@ -102,7 +102,7 @@ void llenar_estructuras(Pregunta* preguntas){
 
 void comenzar_con_examen(Pregunta* preguntas){
 	
-        nombre p[50];
+        nombre p[NOMBRE];
 	int puntuacion = 0,i,numero_aleatorio;
 	char eleccion[5];
 	srand(time(NULL));		
@@ -167,7 +167,7 @@ void comenzar_examen_por_temas(Pregunta* preguntas){
 	
 		int op,i,puntuacion=0;
 		char eleccion[5];
-		nombre p[50];
+		nombre p[NOMBRE];
 	
 	printf("Introduce tu nombre: ");
 	scanf("%s",p[0].nombre);
