@@ -1,5 +1,11 @@
 #include <stdio.h>
 #include<string.h>
+#include<stdlib.h>
+
+typedef struct{
+	char nombre[250];
+	int nota[100];
+}nombre;
 
 typedef struct{
 	char pregunta[250];
@@ -27,7 +33,9 @@ void llenar_estructuras(Pregunta* preguntas);
 
 
 int main(){
+	
 	int op;
+	nombre p[50];
 	Pregunta preguntas[50];
 	llenar_estructuras(preguntas);
 	
@@ -38,6 +46,8 @@ int main(){
 		printf("[3] Ver las preguntas de un tema en concreto\n");
 		printf("[4] Salir\n");
 		scanf("%d", &op);
+		
+		system("cls");
 		
 		switch(op){
 			case 1: comenzar_con_examen(preguntas);break;
@@ -88,10 +98,21 @@ void llenar_estructuras(Pregunta* preguntas){
 
 void comenzar_con_examen(Pregunta* preguntas){
 	
-
+        nombrep[50];
 	int puntuacion = 0,i,numero_aleatorio;
 	char eleccion[5];
 	srand(time(NULL));		
+	
+	printf("Introduce tu nombre: ");
+	scanf("%s",p[0].nombre);
+	
+	system("cls");
+	
+	printf("Pulse una tecla para comenzar");
+	
+	getch();
+	
+	system("cls");
 	
 	printf("COMIENZA EL EXAMEN\n");
 	
@@ -121,10 +142,16 @@ void comenzar_con_examen(Pregunta* preguntas){
 		if(strcmp(eleccion,preguntas[i].correcta)==0){
 			puntuacion++;
 		}
+			
+		system("cls");
 	}
+	system("cls");
 	
-
-	printf("Tu nota es %i/10\n",puntuacion);
+	printf("%s, tu nota es",p[0].nombre);
+	printf("%i/10\n",puntuacion);
+	printf("Pulse una tecla para continuar");
+	getch();
+	system("cls");
 }
 
 
@@ -132,7 +159,12 @@ void comenzar_examen_por_temas(Pregunta* preguntas){
 	
 		int op,i,puntuacion=0;
 		char eleccion[5];
-		
+		nombre p[50];
+	
+	printf("Introduce tu nombre: ");
+	scanf("%s",p[0].nombre);
+	
+	system("cls");
 		//Hacemos un do while para elegir siempre una opción dentro de las existentes
 		do{
 			printf("Elige el tema del que quieres hacer el examen\n");
@@ -145,10 +177,13 @@ void comenzar_examen_por_temas(Pregunta* preguntas){
 			scanf("%d",&op);	
 		}while(op < 1 || op>5);
 		
-		
+		system("cls");
 		
 		printf("Has elegido hacer las preguntas del tema %d\n",op);
-		
+		printf("Pulse unaa tecla para comenzar");
+	
+	        getch();
+	system("cls");
 		for(i = (op*10)-10; i<op*10;i++){
 		printf("%s\n",preguntas[i].pregunta);
 		printf("a) %s\n",preguntas[i].opcion1);
@@ -171,9 +206,14 @@ void comenzar_examen_por_temas(Pregunta* preguntas){
 		if(strcmp(eleccion,preguntas[i].correcta)==0){
 			puntuacion++;
 		}
+		system("cls");
 	}
-	
-	printf("Tu nota es %i/10\n",puntuacion);
+	system("cls");
+	printf("%s, tu nota es ",p[0].nombre);
+	printf("i/10\n",puntuacion);
+	printf("Pulse una tecla para continuar");
+	getch();
+	system("cls");
 }
 
 
@@ -182,7 +222,7 @@ void ver_preguntas_tema_concreto(Pregunta* preguntas){
 
 	
 		int op,i;
-		
+		char siguiente;
 		
 		//Hacemos un do while para elegir siempre una opción dentro de las existentes
 		do{
@@ -198,6 +238,7 @@ void ver_preguntas_tema_concreto(Pregunta* preguntas){
 	
 		printf("Has elegido hacer las preguntas del tema %d\n",op);
 		
+	system("cls");
 		for(i = (op*10)-10; i<op*10;i++){
 		printf("%s\n",preguntas[i].pregunta);
 		printf("%s\n",preguntas[i].opcion1);
@@ -205,5 +246,8 @@ void ver_preguntas_tema_concreto(Pregunta* preguntas){
 		printf("%s\n",preguntas[i].opcion3);
 		printf("%s\n",preguntas[i].opcion4);
 		printf("---------------------------------\n");
+		printf("Pulse una tecla para continuar");
+		getch();
+		system("cls");
 	}
 }
