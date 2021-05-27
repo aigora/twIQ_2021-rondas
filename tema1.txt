@@ -243,7 +243,7 @@ Depende de la frecuencia.
 Depende del campo.
 Es adimensional.
 Depende de la temperatura.
-La respuesta correcta es: Es adimensional.
+c
 2)Cual de los siguientes disolventes puede ser utilizado en RMN?
 CCl4
 CDCl3
@@ -261,40 +261,40 @@ Dos
 Diez
 Tres y dos
 Seis y dos
-La respuesta correcta es: Dos
+a
 5)En el n-Propano, la senial del metilo en cuantas seniales se desdobla? Cual es su relacion de intensidades? Cual es la integral de sus áreas?
 2. 1-1. 3.
 1. 1. 6.
 2. 1-1. 2.
 3. 1-2-1. 6.
-La respuesta correcta es: 3. 1-2-1. 6.
+d
 6)En el espectro de RMN de proton del n-propano, si uno de los carbonos es el C-13, entonces :
 Las seniales de RMN de H se desdoblan, multiplicandose por dos.
 No influye para nada, pues no se veria.
 Solo se veria el espectro de RMN de C13 porque su peso molecular es el mas alto.
 Aparece el espectro de RMN de C-13 superpuesto.
-La respuesta correcta es: Las seniales de RMN de H se desdoblan, multiplicándose por dos.
+a
 7)¿El 2,2,3,3 tetrametilbutano cuantas señales dara en RMN de H? Cual es la integral de sus areas?
 Cuatro picos de 3, 6, 6 y tres H.
 Tres picos y sus áreas 6, 6 y 6 y ademas desdoblados.
 Un solo pico y un area de 18 H.
 Cuatro picos de 3, 6, 6 y tres H y ademas desdoblados.
-La respuesta correcta es: Un solo pico y un área de 18 H.
+c
 8)En el n-Propano, la senial del metilo en cuántas seniales se desdobla? Cual es su relación de intensidades? Cual es la integral de sus areas?
 2. 1-1. 2.
 2. 1-1. 3.
 3. 1-2-1. 6.
 1. 1. 6.
-La respuesta correcta es: 3. 1-2-1. 6
+c
 9)El Benceno Cuantos tipos de protones equivalentes tiene?
 Seis.
 Doce.
 Seis y Seis.
 Uno.
-La respuesta correcta es: Uno
+d
 10)El propano Cuantos tipos de protones equivalentes tiene?
 Dos.
 Ocho
 Cuatro
 Tres
-La respuesta correcta es: Dos.
+a
