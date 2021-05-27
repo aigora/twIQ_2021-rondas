@@ -17,7 +17,7 @@ typedef struct{
 }Pregunta;
 
 
-//Función en la que harémos un examen completo con las preguntas;
+//Funcion en la que haremos un examen completo con las preguntas;
 void comenzar_con_examen(Pregunta* preguntas);
 
 //Funcion en la que haremos un examen por temas
@@ -121,7 +121,7 @@ void comenzar_con_examen(Pregunta* preguntas){
 	printf("COMIENZA EL EXAMEN\n\n");
 	
 	
-	/*En esta parte se muestran las preguntas por pantalla y se le pide al usuario la solución*/
+	/*En esta parte se muestran las preguntas por pantalla y se le pide al usuario la solucion*/
 	
 		for(i = 0; i<10;i++){
 		numero_aleatorio = rand() % 10+1;
@@ -131,7 +131,7 @@ void comenzar_con_examen(Pregunta* preguntas){
 		printf("c) %s\n",preguntas[numero_aleatorio].opcion3);
 		printf("d) %s\n",preguntas[numero_aleatorio].opcion4);
 		
-		/*Hacemos un do while para que solo se puedan introducir números del 1 al 4*/
+		/*Hacemos un do while para que solo se puedan introducir numeros del 1 al 4*/
 		do{
 			printf("Introduce la opcion correcta -> ");
 			scanf("%s",&eleccion);	
@@ -173,7 +173,7 @@ void comenzar_examen_por_temas(Pregunta* preguntas){
 	scanf("%s",p[0].nombre);
 	
 	system("cls");
-		//Hacemos un do while para elegir siempre una opción dentro de las existentes
+		//Hacemos un do while para elegir siempre una opcion dentro de las existentes
 		do{
 			printf("Elige el tema del que quieres hacer el examen\n");
 			printf("Tema 1\n");
