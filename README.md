@@ -1,6 +1,6 @@
 ![Logo](https://user-images.githubusercontent.com/61472188/119862756-1f96db80-bf19-11eb-9ae8-04c8c560cd4b.png)
 
-# Rondas(juego)
+# Rondas
 Bienvenidos, este es un juego donde puedes hacer un cuestionario de 10 preguntas para poner a prueba tus conocimientos sobre análisis instrumental de los primeros 5 temas.
 
 
