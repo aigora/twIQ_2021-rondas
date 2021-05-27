@@ -153,7 +153,7 @@ void comenzar_con_examen(Pregunta* preguntas){
 	
 	system("cls");
 	
-	printf("%s, tu nota es",p[0].nombre);
+	printf("%s, tu nota es ",p[0].nombre);
 	printf("%i/10\n",puntuacion);
 	printf("Pulse una tecla para continuar");
 	
