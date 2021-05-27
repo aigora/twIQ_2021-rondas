@@ -39,6 +39,9 @@ int main(){
 	Pregunta preguntas[50];
 	llenar_estructuras(preguntas);
 	
+	
+	
+	
 	while(op!=4){
 		printf("-----------Elija la opcion que quiera hacer-----------\n");
 		printf("[1] Hacer examen con preguntas aleatorias\n");
@@ -54,7 +57,8 @@ int main(){
 			case 2: comenzar_examen_por_temas(preguntas);break;
 			case 3: ver_preguntas_tema_concreto(preguntas);break;
 			case 4: break;			
-		}
+	       }
+	
 	}	
 	return 0;
 }
@@ -114,7 +118,7 @@ void comenzar_con_examen(Pregunta* preguntas){
 	
 	system("cls");
 	
-	printf("COMIENZA EL EXAMEN\n");
+	printf("COMIENZA EL EXAMEN\n\n");
 	
 	
 	/*En esta parte se muestran las preguntas por pantalla y se le pide al usuario la solución*/
@@ -144,13 +148,17 @@ void comenzar_con_examen(Pregunta* preguntas){
 		}
 			
 		system("cls");
+	
 	}
+	
 	system("cls");
 	
 	printf("%s, tu nota es",p[0].nombre);
 	printf("%i/10\n",puntuacion);
 	printf("Pulse una tecla para continuar");
+	
 	getch();
+	
 	system("cls");
 }
 
@@ -209,10 +217,13 @@ void comenzar_examen_por_temas(Pregunta* preguntas){
 		system("cls");
 	}
 	system("cls");
+	
 	printf("%s, tu nota es ",p[0].nombre);
 	printf("i/10\n",puntuacion);
 	printf("Pulse una tecla para continuar");
+	
 	getch();
+	
 	system("cls");
 }
 
@@ -248,6 +259,7 @@ void ver_preguntas_tema_concreto(Pregunta* preguntas){
 		printf("---------------------------------\n");
 		printf("Pulse una tecla para continuar");
 		getch();
+		
 		system("cls");
 	}
 }
