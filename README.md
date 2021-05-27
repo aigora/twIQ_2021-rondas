@@ -6,7 +6,7 @@ Bienvenidos, este es un juego donde puedes hacer un cuestionario de 10 preguntas
 
 ## Integrantes del equipo
 Manuel Alejandro Taboada Da Silva , Usuario: "ManuelTaboada"
-Raul Del Campo Almaraz , Usuario: "LordDemuntus"
+Raul Del Campo Almaraz , Usuario: "LordDementus"
 Kevin Joseph Choto Once, Usuario: "MrBotKa"
 ## Objetivos del trabajo
 Se quiere realizar un pequeño cuestionario que a través de preguntas cortas pero de gran ayuda obtengas unos conocimientos previos antes de iniciar en la materia.
